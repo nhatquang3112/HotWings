@@ -3,7 +3,7 @@
     <section class="hero is-link">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title is-2 has-text-warning">Singapore Airline</h1>
+          <h1 class="title is-2 has-text-warning">Singapore Airlines</h1>
           <h2 class="subtitle has-text-warning">Delicious on-flight meals await!</h2>
         </div>
       </div>
